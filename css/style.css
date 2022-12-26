@@ -326,6 +326,7 @@ section{
 .credits a{
     width: fit-content;
     margin: 5px 0;
+    color: var(--lightdark-color);
     transition: var(--global-transition);
 }
 
